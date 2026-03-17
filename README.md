@@ -242,7 +242,7 @@ seed management, model versioning, and grid search configurations,
 ensuring consistent and reliable experimentation across runs.
 
 <figure id="plot:model_time_comparison" data-latex-placement="ht">
-<img src="../attachments/figures/plot_Model Comparison.png"
+<img src="attachments/figures/plot_Model Comparison.png"
 style="width:50.0%" />
 <figcaption>Model Comparison</figcaption>
 </figure>
@@ -701,8 +701,7 @@ to drop any of the rows.
 
 <figure id="plot:feature_distribution_numerical"
 data-latex-placement="ht">
-<img
-src="../attachments/figures/plot_Feature Distribution (Numerical).png"
+<img src="attachments/figures/plot_Feature Distribution (Numerical).png"
 style="width:50.0%" />
 <figcaption>Numerical Features Distribution</figcaption>
 </figure>
@@ -730,8 +729,7 @@ behavior-related attributes.
 
 <figure id="plot:feature_distribution_discrete"
 data-latex-placement="ht">
-<img
-src="../attachments/figures/plot_Feature Distribution (Discrete).png"
+<img src="attachments/figures/plot_Feature Distribution (Discrete).png"
 style="width:50.0%" />
 <figcaption>Discrete Features Distribution</figcaption>
 </figure>
@@ -754,7 +752,7 @@ consumption are dominant lifestyle traits.
 ## Feature Spread (Numerical)
 
 <figure id="plot:feature_spread_numerical" data-latex-placement="ht">
-<img src="../attachments/figures/plot_Feature Spread (Numerical).png"
+<img src="attachments/figures/plot_Feature Spread (Numerical).png"
 style="width:50.0%" />
 <figcaption>Numerical Feature Spread</figcaption>
 </figure>
@@ -779,8 +777,7 @@ physical features.
 
 <figure id="plot:outlier_sensitivity_numerical"
 data-latex-placement="ht">
-<img
-src="../attachments/figures/plot_Outlier Sensitivity (Numerical).png"
+<img src="attachments/figures/plot_Outlier Sensitivity (Numerical).png"
 style="width:50.0%" />
 <figcaption>Numerical Outlier Sensitivity</figcaption>
 </figure>
@@ -800,8 +797,7 @@ variables and will require focused treatment in the preprocessing phase.
 ## Correlation Matrix
 
 <figure id="plot:correlation" data-latex-placement="ht">
-<img
-src="../attachments/figures/plot_Correlation Matrix Main Dataset.png"
+<img src="attachments/figures/plot_Correlation Matrix Main Dataset.png"
 style="width:50.0%" />
 <figcaption>Correlation Matrix</figcaption>
 </figure>
@@ -836,7 +832,7 @@ consumption, reflecting healthier eating patterns.
 ## Principal Components
 
 <figure id="plot:pca" data-latex-placement="ht">
-<img src="../attachments/figures/plot_3D PCA Projection.png"
+<img src="attachments/figures/plot_3D PCA Projection.png"
 style="width:50.0%" />
 <figcaption>Principal Components</figcaption>
 </figure>
@@ -1085,25 +1081,25 @@ Forests, AdaBoost, XGBoost and LightGBM), Distance-based models
 (K-Nearest Neighbors) and Probility-based models (Naive Bayes).
 
 <figure id="plot:regression_pipeline" data-latex-placement="ht">
-<img src="../attachments/figures/plot_regression_pipeline.png"
+<img src="attachments/figures/plot_regression_pipeline.png"
 style="width:50.0%" />
 <figcaption>Regression Pipelines Comparision</figcaption>
 </figure>
 
 <figure id="plot:tree_pipeline" data-latex-placement="ht">
-<img src="../attachments/figures/plot_tree_pipeline.png"
+<img src="attachments/figures/plot_tree_pipeline.png"
 style="width:50.0%" />
 <figcaption>Tree Pipelines Comparision</figcaption>
 </figure>
 
 <figure id="plot:distance_pipeline" data-latex-placement="ht">
-<img src="../attachments/figures/plot_distance_pipeline.png"
+<img src="attachments/figures/plot_distance_pipeline.png"
 style="width:50.0%" />
 <figcaption>Distance Pipelines Comparision</figcaption>
 </figure>
 
 <figure id="plot:pobability_pipeline" data-latex-placement="ht">
-<img src="../attachments/figures/plot_probability_pipeline.png"
+<img src="attachments/figures/plot_probability_pipeline.png"
 style="width:50.0%" />
 <figcaption>Probability Pipelines Comparision</figcaption>
 </figure>
@@ -1161,13 +1157,13 @@ to reduce bias and variance through sequential learning.
   interpretable, but it struggles with complex, nonlinear data patterns.
 
   <figure id="plot:Best_LR_Config" data-latex-placement="ht">
-  <img src="../attachments/figures/plot_Best LR Config.png"
+  <img src="attachments/figures/plot_Best LR Config.png"
   style="width:50.0%" />
   <figcaption>Grid Search on Logistic Regression</figcaption>
   </figure>
 
   <figure id="plot:ConfusionMatrix_GSLR" data-latex-placement="ht">
-  <img src="../attachments/figures/plot_Confusion Matrix_ GSLR.png"
+  <img src="attachments/figures/plot_Confusion Matrix_ GSLR.png"
   style="width:50.0%" />
   <figcaption>Confusion Matrix Logistic Regression</figcaption>
   </figure>
@@ -1181,13 +1177,13 @@ to reduce bias and variance through sequential learning.
   often preferred for better generalization.
 
   <figure id="plot:Best_DT_Config" data-latex-placement="ht">
-  <img src="../attachments/figures/plot_Best DT Config.png"
+  <img src="attachments/figures/plot_Best DT Config.png"
   style="width:50.0%" />
   <figcaption>Grid Search on Decision Tree</figcaption>
   </figure>
 
   <figure id="plot:ConfusionMatrix_GSDT" data-latex-placement="ht">
-  <img src="../attachments/figures/plot_Confusion Matrix_ GSDT.png"
+  <img src="attachments/figures/plot_Confusion Matrix_ GSDT.png"
   style="width:50.0%" />
   <figcaption>Confusion Matrix Decision Tree</figcaption>
   </figure>
@@ -1201,13 +1197,13 @@ to reduce bias and variance through sequential learning.
   tasks.
 
   <figure id="plot:Best_RF_Config" data-latex-placement="ht">
-  <img src="../attachments/figures/plot_Best RF Config.png"
+  <img src="attachments/figures/plot_Best RF Config.png"
   style="width:50.0%" />
   <figcaption>Grid Search on Random Forest</figcaption>
   </figure>
 
   <figure id="plot:ConfusionMatrix_GSRF" data-latex-placement="ht">
-  <img src="../attachments/figures/plot_Confusion Matrix_ GSRF.png"
+  <img src="attachments/figures/plot_Confusion Matrix_ GSRF.png"
   style="width:50.0%" />
   <figcaption>Confusion Matrix Random Forest</figcaption>
   </figure>
@@ -1221,13 +1217,13 @@ to reduce bias and variance through sequential learning.
   extra attention to difficult cases.
 
   <figure id="plot:Best_AB_Config" data-latex-placement="ht">
-  <img src="../attachments/figures/plot_Best AB Config.png"
+  <img src="attachments/figures/plot_Best AB Config.png"
   style="width:50.0%" />
   <figcaption>Grid Search on AdaBoost</figcaption>
   </figure>
 
   <figure id="plot:ConfusionMatrix_GSAB" data-latex-placement="ht">
-  <img src="../attachments/figures/plot_Confusion Matrix_ GSAB.png"
+  <img src="attachments/figures/plot_Confusion Matrix_ GSAB.png"
   style="width:50.0%" />
   <figcaption>Confusion Matrix AdaBoost</figcaption>
   </figure>
@@ -1241,13 +1237,13 @@ to reduce bias and variance through sequential learning.
   isn’t well-scaled.
 
   <figure id="plot:Best_KNN_Config" data-latex-placement="ht">
-  <img src="../attachments/figures/plot_Best KNN Config.png"
+  <img src="attachments/figures/plot_Best KNN Config.png"
   style="width:50.0%" />
   <figcaption>Grid Search on K-Nearest Neighbors</figcaption>
   </figure>
 
   <figure id="plot:ConfusionMatrix_GSKNN" data-latex-placement="ht">
-  <img src="../attachments/figures/plot_Confusion Matrix_ GSKNN.png"
+  <img src="attachments/figures/plot_Confusion Matrix_ GSKNN.png"
   style="width:50.0%" />
   <figcaption>Confusion Matrix K-Nearest Neighbors</figcaption>
   </figure>
@@ -1261,13 +1257,13 @@ to reduce bias and variance through sequential learning.
   high-dimensional data, though it can miss subtle feature interactions.
 
   <figure id="plot:Best_GNB_Config" data-latex-placement="ht">
-  <img src="../attachments/figures/plot_Best GNB Config.png"
+  <img src="attachments/figures/plot_Best GNB Config.png"
   style="width:50.0%" />
   <figcaption>Grid Search on Naive Bayes</figcaption>
   </figure>
 
   <figure id="plot:ConfusionMatrix_GSGNB" data-latex-placement="ht">
-  <img src="../attachments/figures/plot_Confusion Matrix_ GSGNB.png"
+  <img src="attachments/figures/plot_Confusion Matrix_ GSGNB.png"
   style="width:50.0%" />
   <figcaption>Confusion Matrix Naive Bayes</figcaption>
   </figure>
@@ -1281,13 +1277,13 @@ to reduce bias and variance through sequential learning.
   consistently delivers top performance on structured datasets.
 
   <figure id="plot:Best_XGB_Config" data-latex-placement="ht">
-  <img src="../attachments/figures/plot_Best XGB Config.png"
+  <img src="attachments/figures/plot_Best XGB Config.png"
   style="width:50.0%" />
   <figcaption>Grid Search on XGBoost</figcaption>
   </figure>
 
   <figure id="plot:ConfusionMatrix_GSXGB" data-latex-placement="ht">
-  <img src="../attachments/figures/plot_Confusion Matrix_ GSXGB.png"
+  <img src="attachments/figures/plot_Confusion Matrix_ GSXGB.png"
   style="width:50.0%" />
   <figcaption>Confusion Matrix XGBoost</figcaption>
   </figure>
@@ -1301,13 +1297,13 @@ to reduce bias and variance through sequential learning.
   key.
 
   <figure id="plot:Best_LGB_Config" data-latex-placement="ht">
-  <img src="../attachments/figures/plot_Best LGB Config.png"
+  <img src="attachments/figures/plot_Best LGB Config.png"
   style="width:50.0%" />
   <figcaption>Grid Search on LightGBM</figcaption>
   </figure>
 
   <figure id="plot:ConfusionMatrix_GSLGB" data-latex-placement="ht">
-  <img src="../attachments/figures/plot_Confusion Matrix_ GSLGB.png"
+  <img src="attachments/figures/plot_Confusion Matrix_ GSLGB.png"
   style="width:50.0%" />
   <figcaption>Confusion Matrix LightGBM</figcaption>
   </figure>
@@ -1448,7 +1444,7 @@ underscore the strength of boosting-based methods in handling
 structured, moderately noisy tabular data.
 
 <figure id="plot:model_accuracy_comparison" data-latex-placement="ht">
-<img src="../attachments/figures/plot_Model Accuracy Comparison.png"
+<img src="attachments/figures/plot_Model Accuracy Comparison.png"
 style="width:50.0%" />
 <figcaption>Model Accuracy Comparison</figcaption>
 </figure>
@@ -1551,7 +1547,7 @@ ranking of risk probabilities.
 
 <figure id="plot:metric_comparison" data-latex-placement="ht">
 <img
-src="../attachments/figures/plot_Metric Comparison over Top Models.png"
+src="attachments/figures/plot_Metric Comparison over Top Models.png"
 style="width:50.0%" />
 <figcaption>Metric Comparison over Top Models</figcaption>
 </figure>
